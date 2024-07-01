@@ -1,0 +1,19 @@
+  .btnedit{
+    background-image: url(https://img.icons8.com/?size=30&id=42449&format=png&color=000000);
+    padding: 15px;
+    margin:auto;
+  }
+  .btnedit:hover{
+    background-color: #c09507;
+  }
+  .btndelet{
+    background-image:url(https://img.icons8.com/?size=30&id=49382&format=png&color=000000);
+    padding: 15px;
+    margin-left: 30px;
+  }
+  .btndelet:hover{
+    background-color: #b10505;
+  }
+  th, td{
+    text-align: center;
+  }
