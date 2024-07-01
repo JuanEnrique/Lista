@@ -1,0 +1,51 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: separate;
+    width: 80%;
+    margin: auto;
+  }
+  th{
+    border: 1px solid #f1b965;
+    text-align: center;
+    padding: 8px;
+  }
+  td {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  #hcont{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+  }
+  .btnedit{
+    background-image: url(https://img.icons8.com/?size=30&id=42449&format=png&color=000000);
+    padding: 15px;
+    margin-right: 5px;
+  }
+  .btnedit:hover{
+    background-color: #dddddd;
+  }
+  .btndelet{
+    background-image:url(https://img.icons8.com/?size=30&id=49382&format=png&color=000000);
+    padding: 15px;
+  }
+  .btndelet:hover{
+    background-color: #dddddd;
+  }
+  th{
+    background-color: white;
+  }
+  tr:hover{
+    background-color: bisque;
+  }
+  table:disabled {
+    background: red;
+  }
